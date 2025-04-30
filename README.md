@@ -84,7 +84,6 @@ Me chamo Lucas Liuti, tenho 20 anos e sou natural de São Paulo, SP. Atualmente,
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="auto"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=liutilucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -93,8 +92,7 @@ Me chamo Lucas Liuti, tenho 20 anos e sou natural de São Paulo, SP. Atualmente,
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="auto" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=liutilucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=liutilucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>

@@ -5,7 +5,7 @@
 Me chamo Lucas Liuti, tenho 20 anos e sou natural de São Paulo, SP. Atualmente, estou cursando Engenharia de software na USJT, e faço curso profissionalizante do instituto PROA, passando pelo front e backEnd. Sou apaixonado por tecnologia e sempre busco melhorar meus conhecimentos.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucasliuti/">
+  <a href="https://www.linkedin.com/in/lozalucas/">
     <img
       alt="Conectando via LinkedIn"
       title="Conecte-se comigo no LinkedIn"

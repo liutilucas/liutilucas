@@ -1,6 +1,6 @@
 # 👨‍💻Lucas Liuti
 
-**`Desenvolvedor backEnd`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lucas Liuti, tenho 20 anos e sou natural de São Paulo, SP. Atualmente, estou cursando Engenharia de software na USJT, e faço curso profissionalizante do instituto PROA, passando pelo front e backEnd. Sou apaixonado por tecnologia e sempre busco melhorar meus conhecimentos.
 
